@@ -1,8 +1,8 @@
 Steps: [Convert the steps into workflow diagram (include tools for each step) and update README.md]
-. Pull down the reads
-.
-.
-.
+. Obtain bioactivity data from ChEMBL (https://www.ebi.ac.uk/chembl/)
+. Build ML models to predict bioactivity (EC50) and drugability (ADME)
+. Run Molecular docking using the glide module of Schrodinger
+. Run molecular dynamics simulation (MDS) using Desmond module of Schrodinger
 .
 .
 .
