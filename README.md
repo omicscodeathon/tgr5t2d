@@ -29,7 +29,8 @@ The development of novel TGR5 agonists holds great promise for diabetes treatmen
 3. Determine the stability of the binding of the compound(s) to the target protein, through Molecular Dynamics Simulations
 
 ## Data
-The data that was used for machine learning modelling in this study was obtained from ![NCBI isolate brower database](https://www.ebi.ac.uk/chembl/g/#search_results/all/query=TGR5). The training dataset used in the study is in ![accessions folder](training data)
+The data that was used for machine learning modelling in this study was obtained from (https://www.ebi.ac.uk/chembl/g/#search_results/all/query=TGR5). The training dataset used in the study is in (https://www.ebi.ac.uk/chembl/g/#search_results/targets/query=tgr5%0A)
+
 
 
 ## Methods
@@ -55,17 +56,9 @@ This is a computational method used to examine how atoms and molecules behave ov
 
 
 
-
-## Reproducibility
-
-
-
-
-
-
 ## Reproducibility
 The reproducibility documentation of this project can be found here 
-![link](https://github.com/omicscodeathon/tgr5t2dl/blob/main/pipeline/REDME.md)
+!(https://github.com/omicscodeathon/tgr5t2dl/blob/main/pipeline/REDME.md)
  
 
 ## Conclusion
