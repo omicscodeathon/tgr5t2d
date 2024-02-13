@@ -14,7 +14,7 @@
 - [Acknowledgment](#Acknowledgment)
 - [References](#References)
 
-## Background
+## *Background
 Diabetes is a major health burden worldwide, and the development of novel and effective therapies is crucial for improving patient outcomes.
 A promising new class of medications for the management of type 2 diabetes is TGR5 agonists. Since it has been demonstrated that activating TGR5 receptors improves glucose homeostasis and increases energy expenditure, these receptors are a desirable target for diabetes treatment.
 TGR5 agonists have emerged as a promising class of therapeutics for the management of type 2 diabetes. Activation of TGR5 receptors has been shown to increase energy expenditure and improve glucose homeostasis, making them an attractive target for diabetes treatment.
@@ -22,7 +22,7 @@ The development of novel TGR5 agonists holds great promise for diabetes treatmen
 
 
 
-## Objectives
+## *Objectives
 
 1. To Develop machine learning models to predict potential TGR5 agonist based on bioactivity data from Chembl
 2. Identify lead compounds that could serve as potential drugs; this will be achived by carrying out molecular docking to dtermine the binding affinity of the compound(s) to the target protein.
@@ -33,7 +33,7 @@ The data that was used for machine learning modelling in this study was obtained
 
 
 
-## Methods
+## *Methods
 ### Workflow
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/workflow/TGR5_Workflow.jpg)
 
@@ -49,23 +49,25 @@ This is a computational method used to examine how atoms and molecules behave ov
 
 
 
-## Results
+## *Results
 
 ![figures](figures/)
 
 
 
 
-## Reproducibility
+## *Reproducibility
 The reproducibility documentation of this project can be found here 
 !(https://github.com/omicscodeathon/tgr5t2dl/blob/main/pipeline/REDME.md)
  
 
-## Conclusion
+
+## *Conclusion
 The findings of the study provide valuable insights into the potential of TGR5/GLP-1 agonists as a novel therapeutic option for the treatment of type 2 diabetes.
 
 
-## Team Members
+
+## *Team Members
 - Ojochenemi Enejoh (Genomics and Bioinformatics Department, National Biotechnology Development Agency, Abuja, Nigeria) chenemidala@gmail.com
 - Solomon Gichuki sngichuki@gmail.com
 - Chinelo Okonkwo  chinokonkwo@gmail.com 
