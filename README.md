@@ -2,7 +2,7 @@
 ## Targeting TGR5/GLP1 in Type 2 Diabetes using Machine Learning, Molecular Docking and Molecular Dynamics Simulations
 
 
-## Table of Contents
+## *Table of Contents
 - [Background](#Background)
 - [Objectives](#Objectives)
 - [Data](#Data)
@@ -28,7 +28,7 @@ The development of novel TGR5 agonists holds great promise for diabetes treatmen
 2. Identify lead compounds that could serve as potential drugs; this will be achived by carrying out molecular docking to dtermine the binding affinity of the compound(s) to the target protein.
 3. Determine the stability of the binding of the compound(s) to the target protein, through Molecular Dynamics Simulations
 
-## Data
+## *Data
 The data that was used for machine learning modelling in this study was obtained from (https://www.ebi.ac.uk/chembl/g/#search_results/all/query=TGR5). The training dataset used in the study is in (https://www.ebi.ac.uk/chembl/g/#search_results/targets/query=tgr5%0A)
 
 
