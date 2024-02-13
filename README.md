@@ -15,11 +15,10 @@
 - [References](#References)
 
 ## Background
-Diabetes is a major health burden worldwide, and the development of novel and effective therapies is crucial for improving patient outcomes.![image](https://github.com/omicscodeathon/tgr5t2d/assets/69383371/7ba274e8-696a-4d0a-8f9f-19c04808a1a7)
+Diabetes is a major health burden worldwide, and the development of novel and effective therapies is crucial for improving patient outcomes.
 A promising new class of medications for the management of type 2 diabetes is TGR5 agonists. Since it has been demonstrated that activating TGR5 receptors improves glucose homeostasis and increases energy expenditure, these receptors are a desirable target for diabetes treatment.
 TGR5 agonists have emerged as a promising class of therapeutics for the management of type 2 diabetes. Activation of TGR5 receptors has been shown to increase energy expenditure and improve glucose homeostasis, making them an attractive target for diabetes treatment.
-![image](https://github.com/omicscodeathon/tgr5t2d/assets/69383371/e3765b8c-df0c-4502-9ef9-321ebe14e68b)
-The development of novel TGR5 agonists holds great promise for diabetes treatment. These agonists have the potential to not only regulate glucose levels but also address other important aspects of diabetes management, such as body weight and associated complications. In addition, the stimulation of GLP-1 secretion by TGR5 agonists can lead to improved glycemic control through glucose-dependent insulin secretion. ![image](https://github.com/omicscodeathon/tgr5t2d/assets/69383371/4be3b3fd-f1a8-4844-8dd8-51e506494426)
+The development of novel TGR5 agonists holds great promise for diabetes treatment. These agonists have the potential to not only regulate glucose levels but also address other important aspects of diabetes management, such as body weight and associated complications. In addition, the stimulation of GLP-1 secretion by TGR5 agonists can lead to improved glycemic control through glucose-dependent insulin secretion.
 
 
 
@@ -81,3 +80,4 @@ The findings of the study provide valuable insights into the potential of TGR5/G
 - Aja Chikezie  pax4aja@gmail.com
 - Oluwasegun Adesina Babaleye olajideolusegun01@gmail.com
 - David Olatunji odavididowu@gmail.com
+- Olaitan I Awe laitanawe@gmail.com
