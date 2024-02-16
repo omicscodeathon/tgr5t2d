@@ -1,6 +1,5 @@
 # tgr5t2d
-## Targeting TGR5/GLP1 in Type 2 Diabetes using Machine Learning, Molecular Docking and Molecular Dynamics Simulations
-
+## Machine learning-based models, molecular docking and simulation for the prediction of novel small molecules as potential TGR5/GLP-1 agonists in diabetes treatment
 
 ## *Table of Contents
 - [Background](#Background)
