@@ -55,7 +55,10 @@ This is a computational method used to examine how atoms and molecules behave ov
 
 ## *Results
 
-![figures](figures/)
+![figures](/https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/ML_Compds_4_Dockn.png)
+
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
 
 
 
