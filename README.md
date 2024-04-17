@@ -56,12 +56,19 @@ This is a computational method used to examine how atoms and molecules behave ov
 ## *Results
 
 
-![figures](/https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/ML_Compds_4_Dockn.png)
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Bioactivity%20class.png)
+
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Lipinski.png)
+
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/HBDA.png)
+
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
 
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
-
-
 
 
 ## *Reproducibility
