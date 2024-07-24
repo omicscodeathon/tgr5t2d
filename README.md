@@ -39,7 +39,7 @@ The data that was used for machine learning modelling in this study was obtained
 
 ## *Methods
 ### Workflow
-![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/workflow/TGR5_Workflow.jpg)
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/workflow/TGR5_FlowChart.png)
 
 ### 1.Machine Learning
 
