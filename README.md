@@ -7,7 +7,7 @@
 - [Methods](#Methods)
 - [Results](#Results)
 - [Conclusion](#Conclusion)
-- [Team](#TeamMembers)
+- [Team](#Team)
 
 
 ## *Background
@@ -74,7 +74,7 @@ The findings of the study provide valuable insights into the potential of TGR5 a
 
 
 
-## *Team Members
+## *Team
 - Ojochenemi Enejoh (Genomics and Bioinformatics Department, National Biotechnology Development Agency, Abuja, Nigeria) chenemidala@gmail.com
 - Hector Nortey norteyhector@gmail.com
 - Chinelo Okonkwo  chinokonkwo@gmail.com 
