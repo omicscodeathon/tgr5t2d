@@ -1,4 +1,4 @@
-## Machine learning-based models, molecular docking and simulation for the prediction of novel small molecules as potential TGR5/GLP-1 agonists in diabetes treatment
+## Machine learning-based models, molecular docking and simulation for the prediction of novel small molecules as potential TGR5 agonists in diabetes treatment
 
 ## *Table of Contents
 - [Background](#Background)
@@ -75,7 +75,7 @@ This is a computational method used to examine how atoms and molecules behave ov
 
 
 ## *Conclusion
-The findings of the study provide valuable insights into the potential of TGR5/GLP-1 agonists as a novel therapeutic option for the treatment of type 2 diabetes.
+The findings of the study provide valuable insights into the potential of TGR5 agonists as a novel therapeutic option for the treatment of type 2 diabetes.
 
 
 
