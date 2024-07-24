@@ -71,14 +71,8 @@ This is a computational method used to examine how atoms and molecules behave ov
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
 
-
+##Predicted binding scores of compounds docked in the TGR5 binding pocket
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
-
-
-## *Reproducibility
-The reproducibility documentation of this project can be found here 
-!(https://github.com/omicscodeathon/tgr5t2dl/blob/main/pipeline/REDME.md)
- 
 
 
 ## *Conclusion
@@ -94,4 +88,7 @@ The findings of the study provide valuable insights into the potential of TGR5/G
 - Aja Chikezie  pax4aja@gmail.com
 - Oluwasegun Adesina Babaleye olajideolusegun01@gmail.com
 - David Olatunji odavididowu@gmail.com
+- Olalekan Kemiki kemikio@babcock.edu.ng
+- Florence Mbaoji florence.mbaoji@unn.edu.ng
+- Abdulrazak Sale abdulsaleyusuf93@gmail.com
 - Olaitan I Awe laitanawe@gmail.com
