@@ -6,11 +6,9 @@
 - [Data](#Data)
 - [Methods](#Methods)
 - [Results](#Results)
-- [Reproducibility](#Reproducibility)
-- [Discussion](#Discussion)
+- [Conclusion](#Conclusion)
 - [Team Members](#TeamMembers)
-- [Acknowledgment](#Acknowledgment)
-- [References](#References)
+
 
 ## *Background
 Diabetes is a major health burden worldwide, and the development of novel and effective therapies is crucial for improving patient outcomes.
