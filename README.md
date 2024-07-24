@@ -1,4 +1,3 @@
-![image](https://github.com/omicscodeathon/tgr5t2d/assets/69383371/e67017e7-c039-4024-9515-0862a31404ea)# tgr5t2d
 ## Machine learning-based models, molecular docking and simulation for the prediction of novel small molecules as potential TGR5/GLP-1 agonists in diabetes treatment
 
 ## *Table of Contents
