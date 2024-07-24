@@ -7,7 +7,7 @@
 - [Methods](#Methods)
 - [Results](#Results)
 - [Conclusion](#Conclusion)
-- [Team Members](#TeamMembers)
+- [Team](#TeamMembers)
 
 
 ## *Background
