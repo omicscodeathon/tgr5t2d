@@ -22,9 +22,10 @@ Machine learning-based models, molecular docking, and simulation techniques play
 
 ## *Objectives
 
-1. To Develop machine learning models to predict potential TGR5 agonist based on bioactivity data from Chembl
-2. Identify lead compounds that could serve as potential drugs; this will be achived by carrying out molecular docking to dtermine the binding affinity of the compound(s) to the target protein.
-3. Determine the stability of the binding of the compound(s) to the target protein, through Molecular Dynamics Simulations
+1. To Develop machine learning models to predict potential TGR5 agonist based on bioactivity data from ChEMBL
+2. Screen the COC
+3. Identify lead compounds that could serve as potential drugs; this will be achieved by carrying out molecular docking to determine the binding affinity of the compound(s) to the target protein.
+4. Determine the stability of the binding of the compound(s) to TGR5, through Molecular Dynamics Simulations
 
 ## *Data
 The data that was used for machine learning modelling in this study was obtained from (https://www.ebi.ac.uk/chembl/g/#search_results/all/query=TGR5). The training dataset used in the study is in (https://www.ebi.ac.uk/chembl/g/#search_results/targets/query=tgr5%0A)
