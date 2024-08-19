@@ -5,6 +5,7 @@
 - [Objectives](#Objectives)
 - [Methods](#Methods)
 - [Results](#Results)
+- [Discussion](#Discussion)
 - [Conclusion](#Conclusion)
 - [Team](#Team)
 
@@ -51,7 +52,7 @@ This is a computational method used to examine how atoms and molecules behave ov
 ## *Results
 
 ## Chemical Space Analysis
-## The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP
+
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Bioactivity%20class.png)
 
 ## Frequency plot of the two bioactivity classes  and scatter plot of MW versus LogP
@@ -73,6 +74,11 @@ This is a computational method used to examine how atoms and molecules behave ov
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
 ## Predicted binding scores of compounds docked in the TGR5 binding pocket
+
+
+## Discussion
+The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP
+
 
 ## *Conclusion
 Our study identified four (4) novel molecules, notably, CNP0209363, CNP0424850, CNP0417335 and CNP0224616, as potential TGR5 agonists which may be considered for the treatment of T2D 
