@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7e368e2-0ab5-447c-8d9b-06970c228cf0)![image](https://github.com/user-attachments/assets/afbcbe5d-718c-4bf1-8021-78fb183aa8b9)## Machine learning-based Models, Molecular Docking and Molecular Dynamics Simulations for the Prediction of Potential TGR5 Agonists in Type 2 Diabetes Treatment
+## Machine learning-based Models, Molecular Docking and Molecular Dynamics Simulations for the Prediction of Potential TGR5 Agonists in Type 2 Diabetes Treatment
 
 ## *Table of Contents
 - [Background](#Background)
@@ -55,11 +55,11 @@ This is a computational method used to examine how atoms and molecules behave ov
 
 ## *Results
 
-##Chemical Space Analysis
-##The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP
+## Chemical Space Analysis
+## The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Bioactivity%20class.png)
 
-##Frequency plot of the two bioactivity classes  and scatter plot of MW versus LogP
+## Frequency plot of the two bioactivity classes  and scatter plot of MW versus LogP
 
 
 
