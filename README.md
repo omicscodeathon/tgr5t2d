@@ -1,4 +1,4 @@
-## Machine learning-based models, molecular docking and simulation for the prediction of novel small molecules as potential TGR5 agonists in diabetes treatment
+![image](https://github.com/user-attachments/assets/a7e368e2-0ab5-447c-8d9b-06970c228cf0)![image](https://github.com/user-attachments/assets/afbcbe5d-718c-4bf1-8021-78fb183aa8b9)## Machine learning-based Models, Molecular Docking and Molecular Dynamics Simulations for the Prediction of Potential TGR5 Agonists in Type 2 Diabetes Treatment
 
 ## *Table of Contents
 - [Background](#Background)
@@ -34,13 +34,18 @@ The data that was used for machine learning modelling in this study was obtained
 
 ## *Methods
 ### Workflow
-![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/workflow/TGR5_FlowChart.png)
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/workflow/TGR5_Methods_Flowchart.png)
 
 ### 1.Machine Learning
+The Jupyter Notebook was used to create and run the machine learning module's code. Bioactivity data was retrieved from the ChEMBL database (https://www.ebi.ac.uk/chembl/)  The data was cleaned and classified as active, intermediate, or inactive. 
+
+The EC50 values were converted into pEC50 measurements, and Lipinski's descriptors were calculated. After the intermediate bioactivity category was removed, only active and inactive compounds were the subject of exploratory data analysis. Data matrices were created in accordance with the fingerprint descriptors produced using PaDEL. The dataset was split in an 80:20 ratio for training and testing after features with low variance were eliminated. Using a random forest algorithm, a regression model was produced, signifying the end of the machine learning training procedure. 
+
+The coconut database (https://coconut.naturalproducts.net/) was screened using the trained model, and the predicted dataset was used to prepare ligands for docking experiments against the  TGR5 protein.
 
 
 ### 2.Molecular Docking 
-Molecular docking predicts the preferred orientation of a small molecule to a protein target to form a stable complex.
+Molecular docking predicts the preferred orientation of a small molecule to a protein target to form a stable complex. Here, the TGR5 protein was downloadrd from the protein data bank (https://www.rcsb.org/), prepared and used for docking along with the prepared ligands.
 
 ### 3.Molecular Dynamics Simulation (MDS)
 This is a computational method used to examine how atoms and molecules behave over time. Using Newton's equations of motion, MDS determines the stability,  typically tracking the positions and velocities of atoms as they evolve in accordance with classical mechanics. This makes it possible for scientists to look into the atomic-level dynamic features of molecular systems.
@@ -51,28 +56,32 @@ This is a computational method used to examine how atoms and molecules behave ov
 ## *Results
 
 ##Chemical Space Analysis
-##Frequency plot of the two bioactivity classes  and scatter plot of MW versus LogP
-
+##The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Bioactivity%20class.png)
 
-##Box plots of TGR5 agonists using Lipinski's descriptors
+##Frequency plot of the two bioactivity classes  and scatter plot of MW versus LogP
+
+
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Lipinski.png)
 
-
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/HBDA.png)
+##Box plots of TGR5 agonists using Lipinski's descriptors
 
-##Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimental vs Predicted pEC50 for Training Data (b)
+
+
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
+##Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimental vs Predicted pEC50 for Training Data (b)
 
-##Predicted binding scores of compounds docked in the TGR5 binding pocket
+
+
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
-
+##Predicted binding scores of compounds docked in the TGR5 binding pocket
 
 ## *Conclusion
-The findings of the study provide valuable insights into the potential of TGR5 agonists as a novel therapeutic option for the treatment of type 2 diabetes.
-
+Our study identified four (4) novel molecules, notably, CNP0209363, CNP0424850, CNP0417335 and CNP0224616, as potential TGR5 agonists which may be considered for the treatment of T2D 
+The findings of the study provide valuable supporting data for predicting potential TGR5 agonists that combines machine learning-based models, molecular docking, and molecular dynamics simulations, which demonstrate the potential of the proposed approach for predicting novel small molecules as TGR5 agonists. 
 
 
 ## *Team
