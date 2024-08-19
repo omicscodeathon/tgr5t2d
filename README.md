@@ -3,7 +3,6 @@
 ## *Table of Contents
 - [Background](#Background)
 - [Objectives](#Objectives)
-- [Data](#Data)
 - [Methods](#Methods)
 - [Results](#Results)
 - [Conclusion](#Conclusion)
@@ -26,10 +25,6 @@ Machine learning-based models, molecular docking, and simulation techniques play
 2. Screen the COC
 3. Identify lead compounds that could serve as potential drugs; this will be achieved by carrying out molecular docking to determine the binding affinity of the compound(s) to the target protein.
 4. Determine the stability of the binding of the compound(s) to TGR5, through Molecular Dynamics Simulations
-
-## *Data
-The data that was used for machine learning modelling in this study was obtained from (https://www.ebi.ac.uk/chembl/g/#search_results/all/query=TGR5). The training dataset used in the study is in (https://www.ebi.ac.uk/chembl/g/#search_results/targets/query=tgr5%0A)
-
 
 
 ## *Methods
@@ -66,18 +61,18 @@ This is a computational method used to examine how atoms and molecules behave ov
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Lipinski.png)
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/HBDA.png)
-##Box plots of TGR5 agonists using Lipinski's descriptors
+## Box plots of TGR5 agonists using Lipinski's descriptors
 
 
 
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
-##Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimental vs Predicted pEC50 for Training Data (b)
+## Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimental vs Predicted pEC50 for Training Data (b)
 
 
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
-##Predicted binding scores of compounds docked in the TGR5 binding pocket
+## Predicted binding scores of compounds docked in the TGR5 binding pocket
 
 ## *Conclusion
 Our study identified four (4) novel molecules, notably, CNP0209363, CNP0424850, CNP0417335 and CNP0224616, as potential TGR5 agonists which may be considered for the treatment of T2D 
