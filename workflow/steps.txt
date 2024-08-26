@@ -1,6 +1,15 @@
 Steps: [Convert the steps into workflow diagram (include tools for each step) and update README.md]
-. Obtain bioactivity data from ChEMBL (https://www.ebi.ac.uk/chembl/)
-. Build ML models to predict bioactivity (EC50) and drugability (ADME)
+. Download bioactivity data of compounds with biological activity for TGR5 from ChEMBL (https://www.ebi.ac.uk/chembl/)
+. Clean the data: select those with EC50 values, remove those with redundant bioactivity values and those without SMILE notations
+. Label compounds as either active (with EC50 values < 1uM), inactive (with EC50 values > 10uM) or intermediate (with values in between actives and inactives)
+. Remove interediate category for analysis focused only on active and inactive compounds
+. Compute molecular descriptors based on Lipinski's rule of five (ADME)
+. To allow for EC50 data to be more uniformly distributed, convert EC50 to negative logarithimic scale to give pEC50
+. Build ML model using random forest algorithm to predict bioactivity (EC50) and drugability (ADME)
+. Generate fingerorint descriptors using PaDEL
+. Remove features with low variance 
+. Divide dataset into 80:20 ratio for training purposes
+. Screen the Coconut database
 . Run Molecular docking using the glide module of Schrodinger
 . Run molecular dynamics simulation (MDS) using Desmond module of Schrodinger
 .
