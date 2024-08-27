@@ -80,7 +80,10 @@ Fig 6: Molecular dynamics simulation results of lead compounds and TGR5
 
 
 ## Discussion
-The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP
+*The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP
+*Only LogP showed no difference between the actives and inactives among the four Lipinski's descriptors (MW, LogP, NumHDonors, and NumHAcceptors); the other three descriptors (MW, NumHDonors, and NumHAcceptors) all show statistically significant differences between the actives and inactives.
+* The lead compounds show lower binding to TGR5 compared to the co-crystallized ligand
+
 
 
 ## *Conclusion
