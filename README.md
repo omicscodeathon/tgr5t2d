@@ -31,7 +31,7 @@ Machine learning-based models, molecular docking, and simulation techniques play
 ## *Methods
 ### Workflow
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/workflow/TGR5_Methods_Flowchart.png)
-
+Figure 1. Workflow of the methods employed in this study
 ### 1.Machine Learning
 The Jupyter Notebook was used to create and run the machine learning module's code. Bioactivity data was retrieved from the ChEMBL database (https://www.ebi.ac.uk/chembl/)  The data was cleaned and classified as active, intermediate, or inactive. 
 
@@ -54,26 +54,28 @@ This is a computational method used to examine how atoms and molecules behave ov
 ## Chemical Space Analysis
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Bioactivity%20class.png)
-
-## Frequency plot of the two bioactivity classes  and scatter plot of MW versus LogP
+Fig 2: Frequency plot of the two bioactivity classes  and scatter plot of MW versus LogP
 
 
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Lipinski.png)
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/HBDA.png)
-## Box plots of TGR5 agonists using Lipinski's descriptors
+Fig 3: Box plots of TGR5 agonists using Lipinski's descriptors
 
 
 
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
-## Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimental vs Predicted pEC50 for Training Data (b)
+Fig 4:Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimental vs Predicted pEC50 for Training Data (b)
 
 
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
-## Predicted binding scores of compounds docked in the TGR5 binding pocket
+Fig 5:Predicted binding scores of compounds docked in the TGR5 binding pocket
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
+Fig 6: Molecular dynamics simulation results of lead compounds and TGR5
 
 
 ## Discussion
