@@ -22,9 +22,9 @@ Machine learning-based models, molecular docking, and simulation techniques play
 
 ## *Objectives
 
-1. To Develop machine learning models to predict potential TGR5 agonist based on bioactivity data from ChEMBL
-2. Screen the COC
-3. Identify lead compounds that could serve as potential drugs; this will be achieved by carrying out molecular docking to determine the binding affinity of the compound(s) to the target protein.
+1. To develop machine learning models to predict quantitative-atructure activity relationship of 
+2. Screen the COCONUT database to identify potential TGR5 agonist
+3. Identify lead compounds by carrying out molecular docking to determine the binding affinity of the compound(s) to the target protein.
 4. Determine the stability of the binding of the compound(s) to TGR5, through Molecular Dynamics Simulations
 
 
@@ -74,7 +74,8 @@ Fig 4:Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimenta
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
 Fig 5:Predicted binding scores of compounds docked in the TGR5 binding pocket
 
-![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS1.png)
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS2.png)
 Fig 6: Molecular dynamics simulation results of lead compounds and TGR5
 
 
