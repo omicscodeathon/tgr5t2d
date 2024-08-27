@@ -74,6 +74,8 @@ Fig 4:Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimenta
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
 Fig 5:Predicted binding scores of compounds docked in the TGR5 binding pocket
 
+![figures]https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Molecular%20interactions.png 
+
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS1.png)
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS2.png)
 Fig 6: Molecular dynamics simulation results of lead compounds and TGR5
