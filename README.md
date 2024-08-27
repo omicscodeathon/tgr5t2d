@@ -74,17 +74,18 @@ Fig 4:Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimenta
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
 Fig 5:Predicted binding scores of compounds docked in the TGR5 binding pocket
 
-![figures]https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Molecular%20interactions.png 
+![figures][(https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MolecularInteractions.png)
+Fig 6:Molecular binding interactions of compounds docked in the TGR5 binding pocket
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS1.png)
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS2.png)
-Fig 6: Molecular dynamics simulation results of lead compounds and TGR5
+Fig 7: Molecular dynamics simulation results of lead compounds and TGR5
 
 
 ## Discussion
 *The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP
 *Only LogP showed no difference between the actives and inactives among the four Lipinski's descriptors (MW, LogP, NumHDonors, and NumHAcceptors); the other three descriptors (MW, NumHDonors, and NumHAcceptors) all show statistically significant differences between the actives and inactives.
-* The lead compounds show lower binding to TGR5 compared to the co-crystallized ligand
+*The lead compounds show lower binding to TGR5 compared to the co-crystallized ligand
 
 
 
