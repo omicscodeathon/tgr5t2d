@@ -74,7 +74,7 @@ Fig 4:Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimenta
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
 Fig 5:Predicted binding scores of compounds docked in the TGR5 binding pocket
 
-![figures][(https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MolecularInteractions.png)
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MolecularInteractions.png)
 Fig 6:Molecular binding interactions of compounds docked in the TGR5 binding pocket
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS1.png)
