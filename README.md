@@ -22,7 +22,7 @@ Machine learning-based models, molecular docking, and simulation techniques play
 
 ## *Objectives
 
-1. To develop machine learning models to predict quantitative-atructure activity relationship of 
+1. To develop machine learning models to predict quantitative-structure activity relationship of the molecules to the target protein
 2. Screen the COCONUT database to identify potential TGR5 agonist
 3. Identify lead compounds by carrying out molecular docking to determine the binding affinity of the compound(s) to the target protein.
 4. Determine the stability of the binding of the compound(s) to TGR5, through Molecular Dynamics Simulations
@@ -52,24 +52,15 @@ This is a computational method used to examine how atoms and molecules behave ov
 ## *Results
 
 ## Chemical Space Analysis
-
-![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Bioactivity%20class.png)
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/ChemSpace.png))
 Fig 2: Frequency plot of the two bioactivity classes  and scatter plot of MW versus LogP
 
-
-
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Lipinski.png)
-
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/HBDA.png)
 Fig 3: Box plots of TGR5 agonists using Lipinski's descriptors
 
-
-
-
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
 Fig 4:Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimental vs Predicted pEC50 for Training Data (b)
-
-
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
 Fig 5:Predicted binding scores of compounds docked in the TGR5 binding pocket
@@ -79,6 +70,7 @@ Fig 6:Molecular binding interactions of compounds docked in the TGR5 binding poc
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS1.png)
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS2.png)
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS3.png)
 Fig 7: Molecular dynamics simulation results of lead compounds and TGR5
 
 
