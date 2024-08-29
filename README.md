@@ -57,7 +57,7 @@ Fig 2: a. Frequency plot of the two bioactivity classes  b. scatter plot of MW v
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Lipinski.png)
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/HBDA.png)
-Fig 3: Box plots of TGR5 agonists using Lipinski's descriptors
+Fig 3: Box plots of active and inactive compounds analysed using Lipinski's descriptors
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
 Fig 4:Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimental vs Predicted pEC50 for Training Data (b)
@@ -75,15 +75,15 @@ Fig 7: Molecular dynamics simulation results of lead compounds and TGR5
 
 
 ## Discussion
-*The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP
-*Only LogP showed no difference between the actives and inactives among the four Lipinski's descriptors (MW, LogP, NumHDonors, and NumHAcceptors); the other three descriptors (MW, NumHDonors, and NumHAcceptors) all show statistically significant differences between the actives and inactives.
-*The lead compounds show lower binding to TGR5 compared to the co-crystallized ligand
+**The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP.
+**Only LogP showed no difference between the actives and inactives among the four Lipinski's descriptors (MW, LogP, NumHDonors, and NumHAcceptors); the other three descriptors (MW, NumHDonors, and NumHAcceptors) all show statistically significant differences between the actives and inactives.
+**The lead compounds show lower binding to TGR5 compared to the co-crystallized ligand
 
 
 
 ## *Conclusion
-Our study identified four (4) novel molecules, notably, CNP0209363, CNP0424850, CNP0417335 and CNP0224616, as potential TGR5 agonists which may be considered for the treatment of T2D 
-The findings of the study provide valuable supporting data for predicting potential TGR5 agonists that combines machine learning-based models, molecular docking, and molecular dynamics simulations, which demonstrate the potential of the proposed approach for predicting novel small molecules as TGR5 agonists. 
+Our study identified four (4) novel molecules, notably, CNP0209363, CNP0424850, CNP0417335 and CNP0224616 from the COCONUT database, as potential TGR5 agonists 
+The findings of this study provide valuable supporting data for predicting potential TGR5 agonists that combines machine learning-based models, molecular docking, and molecular dynamics simulations, which demonstrate the potential of the proposed approach for predicting novel small molecules as TGR5 agonists that could be considered for the treatment of T2D . 
 
 
 ## *Team
