@@ -10,15 +10,15 @@ Steps: [Convert the steps into workflow diagram (include tools for each step) an
 . Remove features with low variance 
 . Divide dataset into 80:20 ratio for training purposes
 . Screen the Coconut database
-. B: MOLECULAR DOCKING: Prepare the ligands usign the ligPrep module of the Schrodinger software.
+.B: MOLECULAR DOCKING: Prepare the ligands usign the ligPrep module of the Schrodinger software.
 . Download the TGR5 protein form Protein Data Bank, and prepare using the Protein Preparation Wizard of the Schrodinger software.
 . Create a grid box where the ligands will be docked in the proetein (active site) 
 . Run docking using the glide module of Schrodinger
-. visualize the docking results
-. C: MOLECULAR DYNAMICS SIMULATION: Set up the system by adding ions and a memberane to the protein-ligand complex 
+. Visualize the docking results
+.C: MOLECULAR DYNAMICS SIMULATION: Set up the system by adding ions and a memberane to the protein-ligand complex 
 . Execute the simulation run for 100 ns using the Desmond module of Schrodinger software
 . Do post simulation trajectory analysis
-.visualize the simulation results
+. Visualize the simulation results
 .
 .
 .
