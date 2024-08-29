@@ -1,2 +1,8 @@
 Here are the links for some papers being used for this project:
-https://
+https://doi.org/10.1016/S0140-6736(17)30058-2
+https://doi.org/10.1016/j.apsb.2023.11.011
+https://doi.org/10.1016/s0006-291x(02)02550-0
+https://doi.org/10.1038/nrd2619
+https://doi.org/10.1038/nature04330
+https://doi.org/10.1007/s13205-018-1138-x
+https://doi.org/10.2174/2212796813666190102102018
