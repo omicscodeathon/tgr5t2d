@@ -65,13 +65,26 @@ Fig 4:Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimenta
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
 Fig 5:Predicted binding scores of compounds docked in the TGR5 binding pocket
 
-![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MolecularInteractions.png)
-Fig 6:Molecular binding interactions of compounds docked in the TGR5 binding pocket
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/2D_Lead_Structures.png)
+Fig 6:2D structures of lead compounds 
 
-![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS1.png)
-![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS2.png)
-![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MDS3.png)
-Fig 7: Molecular dynamics simulation results of lead compounds and TGR5
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MolecularInteractions.png)
+Fig 7:Molecular binding interactions of compounds docked in the TGR5 binding pocket
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/RMSD.png)
+Fig 8: Trajectories of the Root Mean Square Deviation (RMSD) of TGR5 in apo state, in complex with the Co-lig and the lead compounds
+a. Apo protein; b. Co-Lig; c. CNP0209363; d. CNP0424850; e. CNP0417335; f. CNP0224616 
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/RMSF.png)
+Fig 9: Trajectories of the Root Mean Square Fluctuation (RMSF) of TGR5 in apo state, in complex with the Co-lig and the lead compounds
+a. Apo protein; b. Co-Lig; c. CNP0209363; d. CNP0424850; e. CNP0417335; f. CNP0224616 
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/P_L_CONT.png)
+Fig 10: Protein-Ligand contact during MD simulation between TGR5, Co-lig and the lead compounds
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/LP_CONT.png)
+Fig 11: Ligand-Protein contact made during MD simulation between TGR5, Co-lig and the lead compounds
+a.Co-Lig; b. CNP0209363; c. CNP0424850; d. CNP0417335; e. CNP0224616 
 
 
 ## Discussion
