@@ -60,7 +60,7 @@ Fig 2: a. Frequency plot of the two bioactivity classes  b. scatter plot of MW v
 Fig 3: Box plots of active and inactive compounds analysed using Lipinski's descriptors
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
-Fig 4:Scatter Plot of Experimental vs Predicted pEC50 Values (a) and Experimental vs Predicted pEC50 for Training Data (b)
+Fig 4: Scatter Plots of (a) Regression Model using Random Forest Algorithm  (b) Experimental vs Predicted pEC50 for Training Data 
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
 Fig 5:Predicted binding scores of compounds docked in the TGR5 binding pocket
