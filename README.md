@@ -91,6 +91,7 @@ a.Co-Lig; b. CNP0209363; c. CNP0424850; d. CNP0417335; e. CNP0224616
 **The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP.
 **Only LogP showed no difference between the actives and inactives among the four Lipinski's descriptors (MW, LogP, NumHDonors, and NumHAcceptors); the other three descriptors (MW, NumHDonors, and NumHAcceptors) all show statistically significant differences between the actives and inactives.
 **The lead compounds show lower binding to TGR5 compared to the co-crystallized ligand
+**Overall, the lead compounds were quite stable within the binding pocket of TGR5 as revelaed by the low RMSD values they displayed.
 
 
 
