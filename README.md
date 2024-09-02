@@ -103,9 +103,8 @@ The findings of this study provide valuable supporting data for predicting poten
 ## *Team
 - Ojochenemi Enejoh (Genomics and Bioinformatics Department, National Biotechnology Development Agency, Abuja, Nigeria) chenemidala@gmail.com
 - Hector Nortey norteyhector@gmail.com
-- Chinelo Okonkwo  chinokonkwo@gmail.com 
-- Oluwasegun Adesina Babaleye olajideolusegun01@gmail.com
-- David Olatunji odavididowu@gmail.com
+- Chinelo Okonkwo  chinokonkwo@gmail.com
+- Ainembabazi Moses mozeyrix@gmail.com
 - Olalekan Kemiki kemikio@babcock.edu.ng
 - Florence Mbaoji florence.mbaoji@unn.edu.ng
 - Abdulrazak Sale abdulsaleyusuf93@gmail.com
