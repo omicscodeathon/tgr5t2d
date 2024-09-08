@@ -53,7 +53,7 @@ This is a computational method used to examine how atoms and molecules behave ov
 
 ## Chemical Space Analysis
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/ChemSpace.png)
-Fig 2: a. Frequency plot of the two bioactivity classes  b. scatter plot of MW versus LogP c. pEC50 values of active and inactive compounds
+Fig 2: a. Frequency plot of the two bioactivity classes  b. pEC50 values of active and inactive  c. scatter plot of MW versus LogP 
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Lipinski.png)
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/HBDA.png)
