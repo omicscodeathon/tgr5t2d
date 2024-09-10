@@ -76,13 +76,18 @@ Fig 8: Trajectories of the Root Mean Square Deviation (RMSD) of TGR5 in apo stat
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/rmsf_comb.png)
 Fig 9: Trajectories of the Root Mean Square Fluctuation (RMSF) of TGR5 in apo state, in complex with the Co-lig (INT-777) and the lead compounds
- 
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/RoG.png)
+Fig 10: Radius of gyration (RoG) of TGR5 in complex with the compounds
+
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/IntraHB.png)
+Fig 11: Intrahydrogen bonds present in the compounds
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/P_L_CONT.png)
-Fig 10: Protein-Ligand contact during MD simulation between TGR5, Co-lig and the lead compounds
+Fig 12: Protein-Ligand contact during MD simulation between TGR5, Co-lig and the lead compounds
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/LP_CONT.png)
-Fig 11: Ligand-Protein contact made during MD simulation between TGR5, Co-lig and the lead compounds
+Fig 13: Ligand-Protein contact made during MD simulation between TGR5, Co-lig and the lead compounds
 a.Co-Lig; b. CNP0209363; c. CNP0424850; d. CNP0417335; e. CNP0224616 
 
 
