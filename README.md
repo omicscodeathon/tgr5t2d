@@ -62,11 +62,11 @@ Fig 3: Box plots of active and inactive compounds analysed using Lipinski's desc
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/pEC50graphs.png)
 Fig 4: Scatter Plots of (a) Regression Model using Random Forest Algorithm  (b) Experimental vs Predicted pEC50 for Training Data 
 
-![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/TGR5_Docked_scores.png)
-Fig 5:Predicted binding scores of compounds docked in the TGR5 binding pocket
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Val_Dock.png)
+Fig 5:a. Validaion of the docking procedure. b.Predicted binding scores of compounds docked in the TGR5 binding pocket:CNP0209363, CNP0424850, CNP0417335, CNP0224616, and co-lig (INT-777) are given as -15.39, -14.87, -14.17, -14.01 and -9.008 kcal/mol, respectively
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/2D_Lead_Structures.png)
-Fig 6:2D structures of lead compounds 
+Fig 6:2D structures of lead compounds predicted from the COCONUT database (a. CNP0209363, b. CNP0424850, c. CNP0417335, d. CNP0224616) 
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MolecularInteractions.png)
 Fig 7:Molecular binding interactions of compounds docked in the TGR5 binding pocket
