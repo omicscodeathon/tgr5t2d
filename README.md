@@ -72,10 +72,10 @@ Fig 6:2D structures of lead compounds
 Fig 7:Molecular binding interactions of compounds docked in the TGR5 binding pocket
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/rmsd_comb.png)
-Fig 8: Trajectories of the Root Mean Square Deviation (RMSD) of TGR5 in apo state, in complex with the Co-lig and the lead compounds
+Fig 8: Trajectories of the Root Mean Square Deviation (RMSD) of TGR5 in apo state, in complex with the Co-lig (INT-777) and the lead compounds
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/rmsf_comb.png)
-Fig 9: Trajectories of the Root Mean Square Fluctuation (RMSF) of TGR5 in apo state, in complex with the Co-lig and the lead compounds
+Fig 9: Trajectories of the Root Mean Square Fluctuation (RMSF) of TGR5 in apo state, in complex with the Co-lig (INT-777) and the lead compounds
  
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/P_L_CONT.png)
