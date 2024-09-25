@@ -41,10 +41,21 @@ The coconut database (https://coconut.naturalproducts.net/) was screened using t
 
 
 ### 2.Molecular Docking 
-Molecular docking predicts the preferred orientation of a small molecule to a protein target to form a stable complex. Here, the TGR5 protein was downloadrd from the protein data bank (https://www.rcsb.org/), prepared and used for docking along with the prepared ligands.
+Molecular docking predicts the preferred orientation of a small molecule to a protein target to form a stable complex. Here, the TGR5 protein was downloaded from the protein data bank (https://www.rcsb.org/), and prepared using the protein preparation wizard of the Schrodinger software. A grid brox where the ligands were docked was created around the active site of the protein. The compounds predicted from the coconut database to have good binding with TGR5 were prepared using the LigPrep module of Schrodinger software.  They were then docked into the active site of the previously prpared TGR5 protein.
+
 
 ### 3.Molecular Dynamics Simulation (MDS)
-This is a computational method used to examine how atoms and molecules behave over time. Using Newton's equations of motion, MDS determines the stability,  typically tracking the positions and velocities of atoms as they evolve in accordance with classical mechanics. This makes it possible for scientists to look into the atomic-level dynamic features of molecular systems.
+This is a computational method used to examine how atoms and molecules behave over time. Using Newton's equations of motion, MDS determines the stability, typically tracking the positions and velocities of atoms as they evolve in accordance with classical mechanics. This makes it possible for scientists to look into the atomic-level dynamic features of molecular systems. During system setup, the TGR5-ligand complexes from the docking studies were embedded in a POPC (300k) membrane bilayers. A suitable amount of ions was introduced to neutralise the system. After equilibration to stabilise the system's pressure and temperature, energy minimisation was done to eliminate any steric clashes. The protein-ligand complexes were solvated in an orthorhombic simulation box filled with explicit TIP3P water molecules. In order to prevent boundary effects, the buffer distance between the complex and the simulation box's edge was set to 10 Å. Additionally, 0.15 M NaCl was added to neutralise the system and replicate physiological conditions.
+The Desmond module of the Schrodinger software was used to run the simulation for a 100 nanosecounds duration; the simulation was run at a constant temperature of 300 K, pressure of 1 atm, and particle count. Prior to simulation, the model system was relaxed and allowed to equilibrate. Following this, a production run lasting 100 ns was executed, during which coordinates were recorded every 100 ps for further analysis. Throughout the run, the simulation trajectory was watched to guarantee system stability. MDS was run on a Linux operating system with GPU support.
+The TGR5-ligand complexes' conformational dynamics, binding stability, and interaction energy were evaluated by analysing the trajectory.
+
+Using Schrödinger's Simulation Interaction Diagram tool, the simulation trajectories were examined in order to evaluate the stability and binding interactions between the ligand and the receptor. Important metrics analysed include:
+  - Root Mean Square Deviation (RMSD): To assess the protein-ligand complex's stability.
+  - Root Mean Square Fluctuation (RMSF): To evaluate each receptor residue's degree of flexibility.
+  - Radius of gyration (RoG): This is a measure of a ligand's extendendness that is comparable to its principal moment of inertia.
+  - The quantity of internal hydrogen bonds inside a ligand molecule is known as intramolecular hydrogen bonds, or intraHB.
+  - Ligand-Protein interactions: During the simulation, keep an eye on the different kinds of interactions (such as hydrogen bonds and hydrophobic contacts) that occur between the ligand and receptor.
+
 
 
 
@@ -63,12 +74,12 @@ Fig 3: Box plots of active and inactive compounds analysed using Lipinski's desc
 Fig 4: Scatter Plots of (a) Regression Model using Random Forest Algorithm  (b) Experimental vs Predicted pEC50 for Training Data 
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/Val_Dock.png)
-Fig 5:a. Validaion of the docking procedure. b.Predicted binding scores of compounds docked in the TGR5 binding pocket:CNP0209363, CNP0424850, CNP0417335, CNP0224616, and co-lig (INT-777) are given as -15.39, -14.87, -14.17, -14.01 and -9.008 kcal/mol, respectively
+Fig 5:a. Validation of the docking procedure. b.Predicted binding scores of compounds docked in the TGR5 binding pocket:CNP0209363, CNP0424850, CNP0417335, CNP0224616, and co-lig (INT-777) are given as -15.39, -14.87, -14.17, -14.01 and -9.008 kcal/mol, respectively
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/2D_Lead_Structures.png)
 Fig 6:2D structures of lead compounds predicted from the COCONUT database (a. CNP0209363, b. CNP0424850, c. CNP0417335, d. CNP0224616) 
 
-![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/MolecularInteractions.png)
+![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/2D_3D.png)
 Fig 7:Molecular binding interactions of compounds docked in the TGR5 binding pocket
 
 ![figures](https://github.com/omicscodeathon/tgr5t2d/blob/main/figures/rmsd_comb.png)
@@ -94,7 +105,7 @@ a.Co-Lig; b. CNP0209363; c. CNP0424850; d. CNP0417335; e. CNP0224616
 ## Discussion
 **The bioactivity classes are spanning similar chemical spaces as evident by the scatter plot of MW vs LogP.
 **Only LogP showed no difference between the actives and inactives among the four Lipinski's descriptors (MW, LogP, NumHDonors, and NumHAcceptors); the other three descriptors (MW, NumHDonors, and NumHAcceptors) all show statistically significant differences between the actives and inactives.
-**The lead compounds show lower binding to TGR5 compared to the co-crystallized ligand
+**The lead compounds show better binding to TGR5 compared to the co-crystallized ligand as displayed by the docking scores
 **Overall, the lead compounds were quite stable within the binding pocket of TGR5 as revelaed by the low RMSD values they displayed.
 
 
