@@ -1,4 +1,4 @@
-## Machine learning-based Models, Molecular Docking and Molecular Dynamics Simulations for the Prediction of Potential TGR5 Agonists in Type 2 Diabetes Treatment
+## Machine Learning and Molecular Dynamics Simulations Predict Potential TGR5 Agonists for Type 2 Diabetes Treatment
 
 ## *Table of Contents
 - [Background](#Background)
