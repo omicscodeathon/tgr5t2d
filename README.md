@@ -117,10 +117,10 @@ The findings of this study provide valuable supporting data for predicting poten
 
 ## *Team
 - Ojochenemi Enejoh (Genomics and Bioinformatics Department, National Biotechnology Development Agency, Abuja, Nigeria) chenemidala@gmail.com
-- Hector Nortey norteyhector@gmail.com
-- Chinelo Okonkwo  chinokonkwo@gmail.com
-- Ainembabazi Moses mozeyrix@gmail.com
-- Olalekan Kemiki kemikio@babcock.edu.ng
-- Florence Mbaoji florence.mbaoji@unn.edu.ng
-- Abdulrazak Sale abdulsaleyusuf93@gmail.com
-- Olaitan I Awe laitanawe@gmail.com
+- Hector Nortey (Department of Clinical Pathology, Noguchi Memorial Institute for Medical Research, College of Health Science, University of Ghana, Legon, Accra, Ghana) norteyhector@gmail.com
+- Chinelo Okonkwo (Department of Pharmacy, National Hospital Abuja, Nigeria) chinokonkwo@gmail.com
+- Ainembabazi Moses (African Centers of Excellence in Bioinformatics, Department of Immunology and Microbiology, Makerere University, Kampala, Uganda) mozeyrix@gmail.com
+- Olalekan Kemiki (Molecular and Tissue Culture Laboratory, Babcock University, Ilisan-remo, Ogun State, Nigeria) kemikio@babcock.edu.ng
+- Florence Mbaoji (Department of Pharmacology and Toxicology, Faculty of Pharmaceutical Sciences, University of Nigeria, Nsukka, Enugu State, Nigeria.) florence.mbaoji@unn.edu.ng
+- Abdulrazak Sale (Department of Biochemistry, Faculty of Basic Health Science, Bayero University, Kano, Nigeria) abdulsaleyusuf93@gmail.com
+- Olaitan I Awe (African Society for Bioinformatics and Computational Biology, Cape Town, South Africa) laitanawe@gmail.com
